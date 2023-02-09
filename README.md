@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **android , java ,react**
+- 💬 Ask me about **Android , JAVA , C++ , C , DSA**
 
 - 📫 How to reach me **akmadheshiya90@gmail.com**
 
