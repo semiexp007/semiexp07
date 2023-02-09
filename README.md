@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **a Ml project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NODEJS**
 
 - 💬 Ask me about **Android , JAVA , C++ , C , DSA**
 
