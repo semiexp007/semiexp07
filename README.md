@@ -9,9 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/0072k19" target="blank"><img src="https://img.shields.io/twitter/follow/0072k19?logo=twitter&style=for-the-badge" alt="0072k19" /></a> </p>
 
-- 🔭 I’m currently working on **a Ml project**
-
-- 🌱 I’m currently learning **NODEJS**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Android , JAVA , C++ , C , DSA**
 
