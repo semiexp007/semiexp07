@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android , JAVA , C++ , C , DSA**
+- 💬 Ask me about **Android , JAVA , C++ , C , DSA,JS,TS,Kotlin,React,Springboot,Aws**
 
 - 📫 How to reach me **akmadheshiya90@gmail.com**
 
